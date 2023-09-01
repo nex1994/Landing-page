@@ -4,11 +4,13 @@ body {
     font-family: "roboto";
     flex-wrap: wrap;
 }
-
+/* header */
+/* | */
+/* v */
 .header {
     display: flex;
     justify-content: flex-end;
-    padding: 10px;
+    padding: 50px;
     background-color: #1f2937;
     
 }
@@ -17,6 +19,7 @@ header {
     margin-right: auto;
     font-size: 24px;
     color: #F9FAF8;
+    font-weight: bold;
 }
 
 .links a {
@@ -26,3 +29,43 @@ header {
     padding: 0 7px;
     
 }
+/* hero */
+/* | */
+/* v */
+.container1 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #1F2937;
+
+}
+
+#hero-main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+#hero-secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+    font-weight: lighter;
+}
+.image {
+    width: auto;
+    height: 300px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #1F2937;
+}
+
+button  {
+    background-color: #3881F6;
+    border-style: solid;
+    border-radius: 8px;
+    font-size: 22px;
+    border-color: #3881F6;
+}
+/* informations section */
+/* | */
+/* |*/
+/* v */
