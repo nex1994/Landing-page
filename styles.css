@@ -64,8 +64,12 @@ button  {
     border-radius: 8px;
     font-size: 22px;
     border-color: #3881F6;
+    color: #F9FAF8;
 }
 /* informations section */
 /* | */
 /* |*/
 /* v */
+.container2 { 
+    align-items: center;
+}
